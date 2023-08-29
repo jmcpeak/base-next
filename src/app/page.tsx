@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          <h1>10:06 AM</h1>
+          <h1>10:39 AM - in meeting</h1>
         </p>
         <div>
           <a
