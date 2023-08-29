@@ -6,8 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing - Tue Aug 29 - &nbsp;
-          <code className={styles.code}>src/app/page.tsx</code>
+          <h1>10:06 AM</h1>
         </p>
         <div>
           <a
@@ -27,6 +26,8 @@ export default function Home() {
           </a>
         </div>
       </div>
+
+      bob!
 
       <div className={styles.center}>
         <Image
